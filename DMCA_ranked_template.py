@@ -24,8 +24,8 @@ for i in range(0, 0): # change the range to whatever you want
                 else:
                     print(f"Missing_content : https://osu.ppy.sh/beatmapsets/{beatmapset.id}/")
                     
-            map_status = api.beatmapset(i).ranked).value
-            if map_statuse == 1 or map_status == 3:
+            map_status = (api.beatmapset(i).ranked).value
+            if map_status == 1 or map_status == 3:
                 ranked_fine.append(beatmapset.id)
             elif map_status == 2:
                 approved_fine.append(beatmapset.id)
