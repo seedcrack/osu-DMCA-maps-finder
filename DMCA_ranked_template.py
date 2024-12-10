@@ -11,7 +11,7 @@ def fetch_beatmapset(beatmap_id):
         return api.beatmapset(beatmap_id)
     except:
         pass
-for i in range(0, 0): # change the range however you liked
+for i in range(0, 0): # change the range to whatever you want
     try:
         beatmapset = fetch_beatmapset(i)
         if not beatmapset:
