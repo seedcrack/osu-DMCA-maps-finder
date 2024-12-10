@@ -16,23 +16,24 @@ for i in range(0, 0): # change the range to whatever you want
     try:
         beatmapset = fetch_beatmapset(i)
         if not beatmapset:
-            continue  # Skip if the beatmapset couldn't be fetched
-        if (api.beatmapset(i).ranked).value in Leaderboard_available:
+            continue  # skip if the beatmapset couldn't be fetched  
+        map_status = (api.beatmapset(i).ranked).value
+        
+        if map_status in Leaderboard_available:
             if beatmapset.availability.more_information:
                 if beatmapset.availability.download_disabled:
                     print(f"DL_disabled : https://osu.ppy.sh/beatmapsets/{beatmapset.id}/  ")
                 else:
                     print(f"Missing_content : https://osu.ppy.sh/beatmapsets/{beatmapset.id}/")
                     
-            map_status = (api.beatmapset(i).ranked).value
-            if map_status == 1 or map_status == 3:
+            elif map_status == 1 or map_status == 3:
                 ranked_fine.append(beatmapset.id)
             elif map_status == 2:
                 approved_fine.append(beatmapset.id)
             elif map_status == 4:
                 loved_fine.append(beatmapset.id)
         else:
-            continue
+            continue # skip if the map has no leaderboard
     except: # ctrl + C to interrupt the process in the cmd
         print(f"the currrent ID is {i}")
         break
