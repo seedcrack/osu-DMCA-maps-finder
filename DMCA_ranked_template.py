@@ -2,7 +2,7 @@ from ossapi import Ossapi
 api = Ossapi("[redacted]","[redacted]")
 
 Leaderboard_available = [1,2,3,4]
-ranked_fine = [] #for checking if the map is DMCA'd in later days
+ranked_fine = [] # for checking if the map is DMCA'd in later days
 approved_fine = []
 loved_fine = []
 
@@ -11,7 +11,7 @@ def fetch_beatmapset(beatmap_id):
         return api.beatmapset(beatmap_id)
     except:
         pass
-for i in range(23059, 25611): #2275548
+for i in range(0, 0): # change the range however you liked
     try:
         beatmapset = fetch_beatmapset(i)
         if not beatmapset:
