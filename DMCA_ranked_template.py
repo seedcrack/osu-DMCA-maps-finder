@@ -1,5 +1,5 @@
 from ossapi import Ossapi
-api = Ossapi("[redacted]","[redacted]")
+api = Ossapi("[redacted]","[redacted]") # how to set up https://github.com/tybug/ossapi
 
 Leaderboard_available = [1,2,3,4]
 ranked_fine = [] # for checking if the map is DMCA'd in later days
