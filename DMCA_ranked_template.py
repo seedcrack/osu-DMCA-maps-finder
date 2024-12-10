@@ -31,6 +31,8 @@ for i in range(0, 0): # change the range to whatever you want
                 approved_fine.append(beatmapset.id)
             elif map_status == 4:
                 loved_fine.append(beatmapset.id)
+        else:
+            continue
     except: # ctrl + C to interrupt the process in the cmd
         print(f"the currrent ID is {i}")
         break
