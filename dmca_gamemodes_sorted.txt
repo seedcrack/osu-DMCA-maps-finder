@@ -1,0 +1,552 @@
+all gamemodes https://osu.ppy.sh/beatmapsets/119359/
+catch https://osu.ppy.sh/beatmapsets/1093379/
+catch mania https://osu.ppy.sh/beatmapsets/138188/
+catch mania osu https://osu.ppy.sh/beatmapsets/151219/
+catch mania osu https://osu.ppy.sh/beatmapsets/529212/
+catch osu taiko https://osu.ppy.sh/beatmapsets/166337/
+catch osu taiko https://osu.ppy.sh/beatmapsets/665562/
+mania https://osu.ppy.sh/beatmapsets/1049362/
+mania https://osu.ppy.sh/beatmapsets/107781/
+mania https://osu.ppy.sh/beatmapsets/113283/
+mania https://osu.ppy.sh/beatmapsets/114156/
+mania https://osu.ppy.sh/beatmapsets/114750/
+mania https://osu.ppy.sh/beatmapsets/118383/
+mania https://osu.ppy.sh/beatmapsets/122745/
+mania https://osu.ppy.sh/beatmapsets/124866/
+mania https://osu.ppy.sh/beatmapsets/125785/
+mania https://osu.ppy.sh/beatmapsets/129356/
+mania https://osu.ppy.sh/beatmapsets/132118/
+mania https://osu.ppy.sh/beatmapsets/134998/
+mania https://osu.ppy.sh/beatmapsets/136889/
+mania https://osu.ppy.sh/beatmapsets/1446650/
+mania https://osu.ppy.sh/beatmapsets/145573/
+mania https://osu.ppy.sh/beatmapsets/147745/
+mania https://osu.ppy.sh/beatmapsets/153971/
+mania https://osu.ppy.sh/beatmapsets/155973/
+mania https://osu.ppy.sh/beatmapsets/162737/
+mania https://osu.ppy.sh/beatmapsets/1686256/
+mania https://osu.ppy.sh/beatmapsets/170223/
+mania https://osu.ppy.sh/beatmapsets/178426/
+mania https://osu.ppy.sh/beatmapsets/184097/
+mania https://osu.ppy.sh/beatmapsets/1886776/
+mania https://osu.ppy.sh/beatmapsets/193972/
+mania https://osu.ppy.sh/beatmapsets/196171/
+mania https://osu.ppy.sh/beatmapsets/206487/
+mania https://osu.ppy.sh/beatmapsets/2084559/
+mania https://osu.ppy.sh/beatmapsets/235491/
+mania https://osu.ppy.sh/beatmapsets/251951/
+mania https://osu.ppy.sh/beatmapsets/290440/
+mania https://osu.ppy.sh/beatmapsets/489259/
+mania https://osu.ppy.sh/beatmapsets/734357/
+mania https://osu.ppy.sh/beatmapsets/757718/
+mania https://osu.ppy.sh/beatmapsets/768338/
+mania https://osu.ppy.sh/beatmapsets/81109/
+mania https://osu.ppy.sh/beatmapsets/85585/
+mania https://osu.ppy.sh/beatmapsets/95609/
+mania osu https://osu.ppy.sh/beatmapsets/151033/
+mania osu https://osu.ppy.sh/beatmapsets/167091/
+mania osu https://osu.ppy.sh/beatmapsets/96796/
+mania taiko https://osu.ppy.sh/beatmapsets/364167/
+osu https://osu.ppy.sh/beatmapsets/100040/
+osu https://osu.ppy.sh/beatmapsets/100252/
+osu https://osu.ppy.sh/beatmapsets/1003019/
+osu https://osu.ppy.sh/beatmapsets/1008772/
+osu https://osu.ppy.sh/beatmapsets/1020243/
+osu https://osu.ppy.sh/beatmapsets/102653/
+osu https://osu.ppy.sh/beatmapsets/10278/
+osu https://osu.ppy.sh/beatmapsets/103372/
+osu https://osu.ppy.sh/beatmapsets/1037744/
+osu https://osu.ppy.sh/beatmapsets/10410/
+osu https://osu.ppy.sh/beatmapsets/1055510/
+osu https://osu.ppy.sh/beatmapsets/107216/
+osu https://osu.ppy.sh/beatmapsets/107647/
+osu https://osu.ppy.sh/beatmapsets/1082635/
+osu https://osu.ppy.sh/beatmapsets/10909/
+osu https://osu.ppy.sh/beatmapsets/1097046/
+osu https://osu.ppy.sh/beatmapsets/11158/
+osu https://osu.ppy.sh/beatmapsets/112399/
+osu https://osu.ppy.sh/beatmapsets/113251/
+osu https://osu.ppy.sh/beatmapsets/113686/
+osu https://osu.ppy.sh/beatmapsets/11383/
+osu https://osu.ppy.sh/beatmapsets/11455/
+osu https://osu.ppy.sh/beatmapsets/114555/
+osu https://osu.ppy.sh/beatmapsets/114993/
+osu https://osu.ppy.sh/beatmapsets/1164291/
+osu https://osu.ppy.sh/beatmapsets/11674/
+osu https://osu.ppy.sh/beatmapsets/11693/
+osu https://osu.ppy.sh/beatmapsets/11715/
+osu https://osu.ppy.sh/beatmapsets/11792/
+osu https://osu.ppy.sh/beatmapsets/11839/
+osu https://osu.ppy.sh/beatmapsets/11851/
+osu https://osu.ppy.sh/beatmapsets/119/
+osu https://osu.ppy.sh/beatmapsets/11965/
+osu https://osu.ppy.sh/beatmapsets/120178/
+osu https://osu.ppy.sh/beatmapsets/12052/
+osu https://osu.ppy.sh/beatmapsets/12127/
+osu https://osu.ppy.sh/beatmapsets/121716/
+osu https://osu.ppy.sh/beatmapsets/12177/
+osu https://osu.ppy.sh/beatmapsets/121906/
+osu https://osu.ppy.sh/beatmapsets/121989/
+osu https://osu.ppy.sh/beatmapsets/12302/
+osu https://osu.ppy.sh/beatmapsets/123409/
+osu https://osu.ppy.sh/beatmapsets/12387/
+osu https://osu.ppy.sh/beatmapsets/12421/
+osu https://osu.ppy.sh/beatmapsets/124390/
+osu https://osu.ppy.sh/beatmapsets/12557/
+osu https://osu.ppy.sh/beatmapsets/12669/
+osu https://osu.ppy.sh/beatmapsets/12688/
+osu https://osu.ppy.sh/beatmapsets/12710/
+osu https://osu.ppy.sh/beatmapsets/12768/
+osu https://osu.ppy.sh/beatmapsets/12874/
+osu https://osu.ppy.sh/beatmapsets/128761/
+osu https://osu.ppy.sh/beatmapsets/129077/
+osu https://osu.ppy.sh/beatmapsets/130187/
+osu https://osu.ppy.sh/beatmapsets/130504/
+osu https://osu.ppy.sh/beatmapsets/131361/
+osu https://osu.ppy.sh/beatmapsets/13188/
+osu https://osu.ppy.sh/beatmapsets/13191/
+osu https://osu.ppy.sh/beatmapsets/13614/
+osu https://osu.ppy.sh/beatmapsets/13767/
+osu https://osu.ppy.sh/beatmapsets/13786/
+osu https://osu.ppy.sh/beatmapsets/13872/
+osu https://osu.ppy.sh/beatmapsets/13879/
+osu https://osu.ppy.sh/beatmapsets/1410968/
+osu https://osu.ppy.sh/beatmapsets/141505/
+osu https://osu.ppy.sh/beatmapsets/14171/
+osu https://osu.ppy.sh/beatmapsets/142937/
+osu https://osu.ppy.sh/beatmapsets/14440/
+osu https://osu.ppy.sh/beatmapsets/145909/
+osu https://osu.ppy.sh/beatmapsets/14622/
+osu https://osu.ppy.sh/beatmapsets/146791/
+osu https://osu.ppy.sh/beatmapsets/14774/
+osu https://osu.ppy.sh/beatmapsets/14778/
+osu https://osu.ppy.sh/beatmapsets/148003/
+osu https://osu.ppy.sh/beatmapsets/15097/
+osu https://osu.ppy.sh/beatmapsets/155457/
+osu https://osu.ppy.sh/beatmapsets/1555816/
+osu https://osu.ppy.sh/beatmapsets/15579/
+osu https://osu.ppy.sh/beatmapsets/15630/
+osu https://osu.ppy.sh/beatmapsets/15650/
+osu https://osu.ppy.sh/beatmapsets/1568481/
+osu https://osu.ppy.sh/beatmapsets/1572100/
+osu https://osu.ppy.sh/beatmapsets/15740/
+osu https://osu.ppy.sh/beatmapsets/158075/
+osu https://osu.ppy.sh/beatmapsets/1584956/
+osu https://osu.ppy.sh/beatmapsets/158899/
+osu https://osu.ppy.sh/beatmapsets/15977/
+osu https://osu.ppy.sh/beatmapsets/1603136/
+osu https://osu.ppy.sh/beatmapsets/16035/
+osu https://osu.ppy.sh/beatmapsets/1636687/
+osu https://osu.ppy.sh/beatmapsets/1648596/
+osu https://osu.ppy.sh/beatmapsets/16553/
+osu https://osu.ppy.sh/beatmapsets/166038/
+osu https://osu.ppy.sh/beatmapsets/1664354/
+osu https://osu.ppy.sh/beatmapsets/16733/
+osu https://osu.ppy.sh/beatmapsets/16845/
+osu https://osu.ppy.sh/beatmapsets/1696855/
+osu https://osu.ppy.sh/beatmapsets/17148/
+osu https://osu.ppy.sh/beatmapsets/173051/
+osu https://osu.ppy.sh/beatmapsets/1767291/
+osu https://osu.ppy.sh/beatmapsets/176832/
+osu https://osu.ppy.sh/beatmapsets/17782/
+osu https://osu.ppy.sh/beatmapsets/17812/
+osu https://osu.ppy.sh/beatmapsets/179756/
+osu https://osu.ppy.sh/beatmapsets/1806/
+osu https://osu.ppy.sh/beatmapsets/1807701/
+osu https://osu.ppy.sh/beatmapsets/1807736/
+osu https://osu.ppy.sh/beatmapsets/18137/
+osu https://osu.ppy.sh/beatmapsets/1848011/
+osu https://osu.ppy.sh/beatmapsets/1870057/
+osu https://osu.ppy.sh/beatmapsets/1872783/
+osu https://osu.ppy.sh/beatmapsets/18918/
+osu https://osu.ppy.sh/beatmapsets/1916136/
+osu https://osu.ppy.sh/beatmapsets/1995596/
+osu https://osu.ppy.sh/beatmapsets/1996067/
+osu https://osu.ppy.sh/beatmapsets/19976/
+osu https://osu.ppy.sh/beatmapsets/1998388/
+osu https://osu.ppy.sh/beatmapsets/2004195/
+osu https://osu.ppy.sh/beatmapsets/2005593/
+osu https://osu.ppy.sh/beatmapsets/203845/
+osu https://osu.ppy.sh/beatmapsets/2040284/
+osu https://osu.ppy.sh/beatmapsets/2045127/
+osu https://osu.ppy.sh/beatmapsets/2045417/
+osu https://osu.ppy.sh/beatmapsets/2046132/
+osu https://osu.ppy.sh/beatmapsets/2055179/
+osu https://osu.ppy.sh/beatmapsets/2076659/
+osu https://osu.ppy.sh/beatmapsets/212382/
+osu https://osu.ppy.sh/beatmapsets/21301/
+osu https://osu.ppy.sh/beatmapsets/21457/
+osu https://osu.ppy.sh/beatmapsets/215381/
+osu https://osu.ppy.sh/beatmapsets/2156441/
+osu https://osu.ppy.sh/beatmapsets/21566/
+osu https://osu.ppy.sh/beatmapsets/2166800/
+osu https://osu.ppy.sh/beatmapsets/2169780/
+osu https://osu.ppy.sh/beatmapsets/2185725/
+osu https://osu.ppy.sh/beatmapsets/2185936/
+osu https://osu.ppy.sh/beatmapsets/2186099/
+osu https://osu.ppy.sh/beatmapsets/2190424/
+osu https://osu.ppy.sh/beatmapsets/2190822/
+osu https://osu.ppy.sh/beatmapsets/2194514/
+osu https://osu.ppy.sh/beatmapsets/22014/
+osu https://osu.ppy.sh/beatmapsets/2212717/
+osu https://osu.ppy.sh/beatmapsets/22212/
+osu https://osu.ppy.sh/beatmapsets/23238/
+osu https://osu.ppy.sh/beatmapsets/23507/
+osu https://osu.ppy.sh/beatmapsets/23787/
+osu https://osu.ppy.sh/beatmapsets/23857/
+osu https://osu.ppy.sh/beatmapsets/24183/
+osu https://osu.ppy.sh/beatmapsets/2506/
+osu https://osu.ppy.sh/beatmapsets/25070/
+osu https://osu.ppy.sh/beatmapsets/25252/
+osu https://osu.ppy.sh/beatmapsets/25403/
+osu https://osu.ppy.sh/beatmapsets/255003/
+osu https://osu.ppy.sh/beatmapsets/257565/
+osu https://osu.ppy.sh/beatmapsets/257623/
+osu https://osu.ppy.sh/beatmapsets/260117/
+osu https://osu.ppy.sh/beatmapsets/26093/
+osu https://osu.ppy.sh/beatmapsets/262547/
+osu https://osu.ppy.sh/beatmapsets/263033/
+osu https://osu.ppy.sh/beatmapsets/263765/
+osu https://osu.ppy.sh/beatmapsets/264109/
+osu https://osu.ppy.sh/beatmapsets/26605/
+osu https://osu.ppy.sh/beatmapsets/26742/
+osu https://osu.ppy.sh/beatmapsets/26932/
+osu https://osu.ppy.sh/beatmapsets/27148/
+osu https://osu.ppy.sh/beatmapsets/27169/
+osu https://osu.ppy.sh/beatmapsets/273849/
+osu https://osu.ppy.sh/beatmapsets/27959/
+osu https://osu.ppy.sh/beatmapsets/27999/
+osu https://osu.ppy.sh/beatmapsets/28372/
+osu https://osu.ppy.sh/beatmapsets/28430/
+osu https://osu.ppy.sh/beatmapsets/288950/
+osu https://osu.ppy.sh/beatmapsets/28900/
+osu https://osu.ppy.sh/beatmapsets/2904/
+osu https://osu.ppy.sh/beatmapsets/29373/
+osu https://osu.ppy.sh/beatmapsets/297507/
+osu https://osu.ppy.sh/beatmapsets/299403/
+osu https://osu.ppy.sh/beatmapsets/3000/
+osu https://osu.ppy.sh/beatmapsets/302/
+osu https://osu.ppy.sh/beatmapsets/302183/
+osu https://osu.ppy.sh/beatmapsets/3027/
+osu https://osu.ppy.sh/beatmapsets/3074/
+osu https://osu.ppy.sh/beatmapsets/30865/
+osu https://osu.ppy.sh/beatmapsets/312042/
+osu https://osu.ppy.sh/beatmapsets/317273/
+osu https://osu.ppy.sh/beatmapsets/3191/
+osu https://osu.ppy.sh/beatmapsets/319976/
+osu https://osu.ppy.sh/beatmapsets/32120/
+osu https://osu.ppy.sh/beatmapsets/32510/
+osu https://osu.ppy.sh/beatmapsets/33575/
+osu https://osu.ppy.sh/beatmapsets/3463/
+osu https://osu.ppy.sh/beatmapsets/34727/
+osu https://osu.ppy.sh/beatmapsets/34953/
+osu https://osu.ppy.sh/beatmapsets/35116/
+osu https://osu.ppy.sh/beatmapsets/35152/
+osu https://osu.ppy.sh/beatmapsets/352375/
+osu https://osu.ppy.sh/beatmapsets/354019/
+osu https://osu.ppy.sh/beatmapsets/3566/
+osu https://osu.ppy.sh/beatmapsets/361045/
+osu https://osu.ppy.sh/beatmapsets/362321/
+osu https://osu.ppy.sh/beatmapsets/3664/
+osu https://osu.ppy.sh/beatmapsets/3696/
+osu https://osu.ppy.sh/beatmapsets/37003/
+osu https://osu.ppy.sh/beatmapsets/3740/
+osu https://osu.ppy.sh/beatmapsets/376552/
+osu https://osu.ppy.sh/beatmapsets/377622/
+osu https://osu.ppy.sh/beatmapsets/38013/
+osu https://osu.ppy.sh/beatmapsets/38074/
+osu https://osu.ppy.sh/beatmapsets/38366/
+osu https://osu.ppy.sh/beatmapsets/3890/
+osu https://osu.ppy.sh/beatmapsets/389343/
+osu https://osu.ppy.sh/beatmapsets/3912/
+osu https://osu.ppy.sh/beatmapsets/39194/
+osu https://osu.ppy.sh/beatmapsets/39578/
+osu https://osu.ppy.sh/beatmapsets/39990/
+osu https://osu.ppy.sh/beatmapsets/4039/
+osu https://osu.ppy.sh/beatmapsets/4081/
+osu https://osu.ppy.sh/beatmapsets/408441/
+osu https://osu.ppy.sh/beatmapsets/40923/
+osu https://osu.ppy.sh/beatmapsets/410476/
+osu https://osu.ppy.sh/beatmapsets/4113/
+osu https://osu.ppy.sh/beatmapsets/4132/
+osu https://osu.ppy.sh/beatmapsets/41615/
+osu https://osu.ppy.sh/beatmapsets/42356/
+osu https://osu.ppy.sh/beatmapsets/4297/
+osu https://osu.ppy.sh/beatmapsets/42997/
+osu https://osu.ppy.sh/beatmapsets/4328/
+osu https://osu.ppy.sh/beatmapsets/440068/
+osu https://osu.ppy.sh/beatmapsets/44222/
+osu https://osu.ppy.sh/beatmapsets/44527/
+osu https://osu.ppy.sh/beatmapsets/449207/
+osu https://osu.ppy.sh/beatmapsets/45074/
+osu https://osu.ppy.sh/beatmapsets/456938/
+osu https://osu.ppy.sh/beatmapsets/4597/
+osu https://osu.ppy.sh/beatmapsets/4598/
+osu https://osu.ppy.sh/beatmapsets/46196/
+osu https://osu.ppy.sh/beatmapsets/46528/
+osu https://osu.ppy.sh/beatmapsets/4713/
+osu https://osu.ppy.sh/beatmapsets/47135/
+osu https://osu.ppy.sh/beatmapsets/48523/
+osu https://osu.ppy.sh/beatmapsets/48779/
+osu https://osu.ppy.sh/beatmapsets/4887/
+osu https://osu.ppy.sh/beatmapsets/48987/
+osu https://osu.ppy.sh/beatmapsets/49941/
+osu https://osu.ppy.sh/beatmapsets/509121/
+osu https://osu.ppy.sh/beatmapsets/511326/
+osu https://osu.ppy.sh/beatmapsets/5139/
+osu https://osu.ppy.sh/beatmapsets/526158/
+osu https://osu.ppy.sh/beatmapsets/52709/
+osu https://osu.ppy.sh/beatmapsets/5275/
+osu https://osu.ppy.sh/beatmapsets/5357/
+osu https://osu.ppy.sh/beatmapsets/5394/
+osu https://osu.ppy.sh/beatmapsets/54409/
+osu https://osu.ppy.sh/beatmapsets/54529/
+osu https://osu.ppy.sh/beatmapsets/54620/
+osu https://osu.ppy.sh/beatmapsets/5616/
+osu https://osu.ppy.sh/beatmapsets/5672/
+osu https://osu.ppy.sh/beatmapsets/56791/
+osu https://osu.ppy.sh/beatmapsets/57262/
+osu https://osu.ppy.sh/beatmapsets/5812/
+osu https://osu.ppy.sh/beatmapsets/60136/
+osu https://osu.ppy.sh/beatmapsets/60214/
+osu https://osu.ppy.sh/beatmapsets/60785/
+osu https://osu.ppy.sh/beatmapsets/6150/
+osu https://osu.ppy.sh/beatmapsets/61687/
+osu https://osu.ppy.sh/beatmapsets/61711/
+osu https://osu.ppy.sh/beatmapsets/61846/
+osu https://osu.ppy.sh/beatmapsets/62141/
+osu https://osu.ppy.sh/beatmapsets/62205/
+osu https://osu.ppy.sh/beatmapsets/63056/
+osu https://osu.ppy.sh/beatmapsets/6339/
+osu https://osu.ppy.sh/beatmapsets/64252/
+osu https://osu.ppy.sh/beatmapsets/6598/
+osu https://osu.ppy.sh/beatmapsets/67133/
+osu https://osu.ppy.sh/beatmapsets/671597/
+osu https://osu.ppy.sh/beatmapsets/685725/
+osu https://osu.ppy.sh/beatmapsets/68717/
+osu https://osu.ppy.sh/beatmapsets/68926/
+osu https://osu.ppy.sh/beatmapsets/70046/
+osu https://osu.ppy.sh/beatmapsets/70257/
+osu https://osu.ppy.sh/beatmapsets/7075/
+osu https://osu.ppy.sh/beatmapsets/7076/
+osu https://osu.ppy.sh/beatmapsets/7190/
+osu https://osu.ppy.sh/beatmapsets/725852/
+osu https://osu.ppy.sh/beatmapsets/73903/
+osu https://osu.ppy.sh/beatmapsets/7426/
+osu https://osu.ppy.sh/beatmapsets/75761/
+osu https://osu.ppy.sh/beatmapsets/76115/
+osu https://osu.ppy.sh/beatmapsets/7612/
+osu https://osu.ppy.sh/beatmapsets/76372/
+osu https://osu.ppy.sh/beatmapsets/7719/
+osu https://osu.ppy.sh/beatmapsets/78211/
+osu https://osu.ppy.sh/beatmapsets/7849/
+osu https://osu.ppy.sh/beatmapsets/8078/
+osu https://osu.ppy.sh/beatmapsets/809992/
+osu https://osu.ppy.sh/beatmapsets/811908/
+osu https://osu.ppy.sh/beatmapsets/8126/
+osu https://osu.ppy.sh/beatmapsets/8149/
+osu https://osu.ppy.sh/beatmapsets/816373/
+osu https://osu.ppy.sh/beatmapsets/8204/
+osu https://osu.ppy.sh/beatmapsets/8216/
+osu https://osu.ppy.sh/beatmapsets/825993/
+osu https://osu.ppy.sh/beatmapsets/8261/
+osu https://osu.ppy.sh/beatmapsets/84014/
+osu https://osu.ppy.sh/beatmapsets/8420/
+osu https://osu.ppy.sh/beatmapsets/848977/
+osu https://osu.ppy.sh/beatmapsets/8652/
+osu https://osu.ppy.sh/beatmapsets/8707/
+osu https://osu.ppy.sh/beatmapsets/87116/
+osu https://osu.ppy.sh/beatmapsets/88465/
+osu https://osu.ppy.sh/beatmapsets/884845/
+osu https://osu.ppy.sh/beatmapsets/885621/
+osu https://osu.ppy.sh/beatmapsets/88616/
+osu https://osu.ppy.sh/beatmapsets/8892/
+osu https://osu.ppy.sh/beatmapsets/8930/
+osu https://osu.ppy.sh/beatmapsets/8931/
+osu https://osu.ppy.sh/beatmapsets/8951/
+osu https://osu.ppy.sh/beatmapsets/8974/
+osu https://osu.ppy.sh/beatmapsets/89979/
+osu https://osu.ppy.sh/beatmapsets/9003/
+osu https://osu.ppy.sh/beatmapsets/9019/
+osu https://osu.ppy.sh/beatmapsets/90777/
+osu https://osu.ppy.sh/beatmapsets/90784/
+osu https://osu.ppy.sh/beatmapsets/9138/
+osu https://osu.ppy.sh/beatmapsets/919187/
+osu https://osu.ppy.sh/beatmapsets/92845/
+osu https://osu.ppy.sh/beatmapsets/9390/
+osu https://osu.ppy.sh/beatmapsets/9473/
+osu https://osu.ppy.sh/beatmapsets/95533/
+osu https://osu.ppy.sh/beatmapsets/9609/
+osu https://osu.ppy.sh/beatmapsets/9682/
+osu https://osu.ppy.sh/beatmapsets/9683/
+osu https://osu.ppy.sh/beatmapsets/9697/
+osu https://osu.ppy.sh/beatmapsets/9734/
+osu https://osu.ppy.sh/beatmapsets/9738/
+osu https://osu.ppy.sh/beatmapsets/980826/
+osu https://osu.ppy.sh/beatmapsets/9825/
+osu https://osu.ppy.sh/beatmapsets/998335/
+osu taiko https://osu.ppy.sh/beatmapsets/10099/
+osu taiko https://osu.ppy.sh/beatmapsets/11478/
+osu taiko https://osu.ppy.sh/beatmapsets/11577/
+osu taiko https://osu.ppy.sh/beatmapsets/123687/
+osu taiko https://osu.ppy.sh/beatmapsets/12539/
+osu taiko https://osu.ppy.sh/beatmapsets/12758/
+osu taiko https://osu.ppy.sh/beatmapsets/13216/
+osu taiko https://osu.ppy.sh/beatmapsets/13305/
+osu taiko https://osu.ppy.sh/beatmapsets/13628/
+osu taiko https://osu.ppy.sh/beatmapsets/13776/
+osu taiko https://osu.ppy.sh/beatmapsets/13860/
+osu taiko https://osu.ppy.sh/beatmapsets/14104/
+osu taiko https://osu.ppy.sh/beatmapsets/14568/
+osu taiko https://osu.ppy.sh/beatmapsets/14572/
+osu taiko https://osu.ppy.sh/beatmapsets/14798/
+osu taiko https://osu.ppy.sh/beatmapsets/14952/
+osu taiko https://osu.ppy.sh/beatmapsets/15241/
+osu taiko https://osu.ppy.sh/beatmapsets/155288/
+osu taiko https://osu.ppy.sh/beatmapsets/15549/
+osu taiko https://osu.ppy.sh/beatmapsets/15893/
+osu taiko https://osu.ppy.sh/beatmapsets/16069/
+osu taiko https://osu.ppy.sh/beatmapsets/16155/
+osu taiko https://osu.ppy.sh/beatmapsets/16466/
+osu taiko https://osu.ppy.sh/beatmapsets/16549/
+osu taiko https://osu.ppy.sh/beatmapsets/16618/
+osu taiko https://osu.ppy.sh/beatmapsets/16773/
+osu taiko https://osu.ppy.sh/beatmapsets/16913/
+osu taiko https://osu.ppy.sh/beatmapsets/17137/
+osu taiko https://osu.ppy.sh/beatmapsets/17270/
+osu taiko https://osu.ppy.sh/beatmapsets/17384/
+osu taiko https://osu.ppy.sh/beatmapsets/17610/
+osu taiko https://osu.ppy.sh/beatmapsets/17912/
+osu taiko https://osu.ppy.sh/beatmapsets/17941/
+osu taiko https://osu.ppy.sh/beatmapsets/18299/
+osu taiko https://osu.ppy.sh/beatmapsets/18486/
+osu taiko https://osu.ppy.sh/beatmapsets/18751/
+osu taiko https://osu.ppy.sh/beatmapsets/19705/
+osu taiko https://osu.ppy.sh/beatmapsets/19874/
+osu taiko https://osu.ppy.sh/beatmapsets/20025/
+osu taiko https://osu.ppy.sh/beatmapsets/20044/
+osu taiko https://osu.ppy.sh/beatmapsets/20245/
+osu taiko https://osu.ppy.sh/beatmapsets/20309/
+osu taiko https://osu.ppy.sh/beatmapsets/20342/
+osu taiko https://osu.ppy.sh/beatmapsets/20723/
+osu taiko https://osu.ppy.sh/beatmapsets/20865/
+osu taiko https://osu.ppy.sh/beatmapsets/20961/
+osu taiko https://osu.ppy.sh/beatmapsets/21342/
+osu taiko https://osu.ppy.sh/beatmapsets/21657/
+osu taiko https://osu.ppy.sh/beatmapsets/21828/
+osu taiko https://osu.ppy.sh/beatmapsets/21870/
+osu taiko https://osu.ppy.sh/beatmapsets/21915/
+osu taiko https://osu.ppy.sh/beatmapsets/21928/
+osu taiko https://osu.ppy.sh/beatmapsets/22229/
+osu taiko https://osu.ppy.sh/beatmapsets/22301/
+osu taiko https://osu.ppy.sh/beatmapsets/22331/
+osu taiko https://osu.ppy.sh/beatmapsets/22401/
+osu taiko https://osu.ppy.sh/beatmapsets/22607/
+osu taiko https://osu.ppy.sh/beatmapsets/22646/
+osu taiko https://osu.ppy.sh/beatmapsets/22775/
+osu taiko https://osu.ppy.sh/beatmapsets/22847/
+osu taiko https://osu.ppy.sh/beatmapsets/23102/
+osu taiko https://osu.ppy.sh/beatmapsets/23291/
+osu taiko https://osu.ppy.sh/beatmapsets/23355/
+osu taiko https://osu.ppy.sh/beatmapsets/23437/
+osu taiko https://osu.ppy.sh/beatmapsets/23521/
+osu taiko https://osu.ppy.sh/beatmapsets/24304/
+osu taiko https://osu.ppy.sh/beatmapsets/24523/
+osu taiko https://osu.ppy.sh/beatmapsets/24597/
+osu taiko https://osu.ppy.sh/beatmapsets/25025/
+osu taiko https://osu.ppy.sh/beatmapsets/25158/
+osu taiko https://osu.ppy.sh/beatmapsets/25241/
+osu taiko https://osu.ppy.sh/beatmapsets/25498/
+osu taiko https://osu.ppy.sh/beatmapsets/25605/
+osu taiko https://osu.ppy.sh/beatmapsets/25637/
+osu taiko https://osu.ppy.sh/beatmapsets/25671/
+osu taiko https://osu.ppy.sh/beatmapsets/26097/
+osu taiko https://osu.ppy.sh/beatmapsets/27309/
+osu taiko https://osu.ppy.sh/beatmapsets/27677/
+osu taiko https://osu.ppy.sh/beatmapsets/27701/
+osu taiko https://osu.ppy.sh/beatmapsets/27862/
+osu taiko https://osu.ppy.sh/beatmapsets/28332/
+osu taiko https://osu.ppy.sh/beatmapsets/28649/
+osu taiko https://osu.ppy.sh/beatmapsets/29417/
+osu taiko https://osu.ppy.sh/beatmapsets/29616/
+osu taiko https://osu.ppy.sh/beatmapsets/29705/
+osu taiko https://osu.ppy.sh/beatmapsets/30229/
+osu taiko https://osu.ppy.sh/beatmapsets/30296/
+osu taiko https://osu.ppy.sh/beatmapsets/30569/
+osu taiko https://osu.ppy.sh/beatmapsets/30877/
+osu taiko https://osu.ppy.sh/beatmapsets/30970/
+osu taiko https://osu.ppy.sh/beatmapsets/32351/
+osu taiko https://osu.ppy.sh/beatmapsets/32430/
+osu taiko https://osu.ppy.sh/beatmapsets/32785/
+osu taiko https://osu.ppy.sh/beatmapsets/32786/
+osu taiko https://osu.ppy.sh/beatmapsets/33410/
+osu taiko https://osu.ppy.sh/beatmapsets/33819/
+osu taiko https://osu.ppy.sh/beatmapsets/36043/
+osu taiko https://osu.ppy.sh/beatmapsets/36790/
+osu taiko https://osu.ppy.sh/beatmapsets/38379/
+osu taiko https://osu.ppy.sh/beatmapsets/38496/
+osu taiko https://osu.ppy.sh/beatmapsets/38566/
+osu taiko https://osu.ppy.sh/beatmapsets/38867/
+osu taiko https://osu.ppy.sh/beatmapsets/38959/
+osu taiko https://osu.ppy.sh/beatmapsets/40893/
+osu taiko https://osu.ppy.sh/beatmapsets/41134/
+osu taiko https://osu.ppy.sh/beatmapsets/41933/
+osu taiko https://osu.ppy.sh/beatmapsets/42141/
+osu taiko https://osu.ppy.sh/beatmapsets/42311/
+osu taiko https://osu.ppy.sh/beatmapsets/42338/
+osu taiko https://osu.ppy.sh/beatmapsets/43292/
+osu taiko https://osu.ppy.sh/beatmapsets/43292/
+osu taiko https://osu.ppy.sh/beatmapsets/43422/
+osu taiko https://osu.ppy.sh/beatmapsets/43510/
+osu taiko https://osu.ppy.sh/beatmapsets/44562/
+osu taiko https://osu.ppy.sh/beatmapsets/44630/
+osu taiko https://osu.ppy.sh/beatmapsets/45069/
+osu taiko https://osu.ppy.sh/beatmapsets/45148/
+osu taiko https://osu.ppy.sh/beatmapsets/45621/
+osu taiko https://osu.ppy.sh/beatmapsets/4638/
+osu taiko https://osu.ppy.sh/beatmapsets/47330/
+osu taiko https://osu.ppy.sh/beatmapsets/47757/
+osu taiko https://osu.ppy.sh/beatmapsets/48572/
+osu taiko https://osu.ppy.sh/beatmapsets/48667/
+osu taiko https://osu.ppy.sh/beatmapsets/48792/
+osu taiko https://osu.ppy.sh/beatmapsets/49568/
+osu taiko https://osu.ppy.sh/beatmapsets/51755/
+osu taiko https://osu.ppy.sh/beatmapsets/5210/
+osu taiko https://osu.ppy.sh/beatmapsets/53438/
+osu taiko https://osu.ppy.sh/beatmapsets/53853/
+osu taiko https://osu.ppy.sh/beatmapsets/54308/
+osu taiko https://osu.ppy.sh/beatmapsets/54817/
+osu taiko https://osu.ppy.sh/beatmapsets/55226/
+osu taiko https://osu.ppy.sh/beatmapsets/56994/
+osu taiko https://osu.ppy.sh/beatmapsets/64535/
+osu taiko https://osu.ppy.sh/beatmapsets/65950/
+osu taiko https://osu.ppy.sh/beatmapsets/66968/
+osu taiko https://osu.ppy.sh/beatmapsets/67093/
+osu taiko https://osu.ppy.sh/beatmapsets/71143/
+osu taiko https://osu.ppy.sh/beatmapsets/71856/
+osu taiko https://osu.ppy.sh/beatmapsets/738656/
+osu taiko https://osu.ppy.sh/beatmapsets/75509/
+osu taiko https://osu.ppy.sh/beatmapsets/76662/
+osu taiko https://osu.ppy.sh/beatmapsets/76709/
+osu taiko https://osu.ppy.sh/beatmapsets/79544/
+osu taiko https://osu.ppy.sh/beatmapsets/81051/
+osu taiko https://osu.ppy.sh/beatmapsets/8208/
+osu taiko https://osu.ppy.sh/beatmapsets/83333/
+osu taiko https://osu.ppy.sh/beatmapsets/9394/
+osu taiko https://osu.ppy.sh/beatmapsets/97932/
+taiko https://osu.ppy.sh/beatmapsets/1056581/
+taiko https://osu.ppy.sh/beatmapsets/108948/
+taiko https://osu.ppy.sh/beatmapsets/137947/
+taiko https://osu.ppy.sh/beatmapsets/1435902/
+taiko https://osu.ppy.sh/beatmapsets/1612162/
+taiko https://osu.ppy.sh/beatmapsets/1684215/
+taiko https://osu.ppy.sh/beatmapsets/1721949/
+taiko https://osu.ppy.sh/beatmapsets/2029290/
+taiko https://osu.ppy.sh/beatmapsets/2111575/
+taiko https://osu.ppy.sh/beatmapsets/2197960/
+taiko https://osu.ppy.sh/beatmapsets/447879/
+taiko https://osu.ppy.sh/beatmapsets/59429/
+taiko https://osu.ppy.sh/beatmapsets/59812/
+taiko https://osu.ppy.sh/beatmapsets/745213/
+taiko https://osu.ppy.sh/beatmapsets/871329/
+taiko https://osu.ppy.sh/beatmapsets/882086/
