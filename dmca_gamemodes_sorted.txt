@@ -550,3 +550,6 @@ taiko https://osu.ppy.sh/beatmapsets/59812/
 taiko https://osu.ppy.sh/beatmapsets/745213/
 taiko https://osu.ppy.sh/beatmapsets/871329/
 taiko https://osu.ppy.sh/beatmapsets/882086/
+
+10/06/2025 recheck
+osu https://osu.ppy.sh/beatmapsets/1952901/
