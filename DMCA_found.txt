@@ -553,3 +553,4 @@ Missing_content : https://osu.ppy.sh/beatmapsets/2212717/
 
 10/06/2025 recheck
 Missing_content : https://osu.ppy.sh/beatmapsets/1952901/
+DL_disabled : https://osu.ppy.sh/beatmapsets/43229
