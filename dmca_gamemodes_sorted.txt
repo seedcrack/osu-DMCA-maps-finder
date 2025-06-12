@@ -160,6 +160,7 @@ osu https://osu.ppy.sh/beatmapsets/1870057/
 osu https://osu.ppy.sh/beatmapsets/1872783/
 osu https://osu.ppy.sh/beatmapsets/18918/
 osu https://osu.ppy.sh/beatmapsets/1916136/
+osu https://osu.ppy.sh/beatmapsets/1952901/
 osu https://osu.ppy.sh/beatmapsets/1995596/
 osu https://osu.ppy.sh/beatmapsets/1996067/
 osu https://osu.ppy.sh/beatmapsets/19976/
@@ -494,7 +495,7 @@ osu taiko https://osu.ppy.sh/beatmapsets/41933/
 osu taiko https://osu.ppy.sh/beatmapsets/42141/
 osu taiko https://osu.ppy.sh/beatmapsets/42311/
 osu taiko https://osu.ppy.sh/beatmapsets/42338/
-osu taiko https://osu.ppy.sh/beatmapsets/43292/
+osu taiko https://osu.ppy.sh/beatmapsets/43229/
 osu taiko https://osu.ppy.sh/beatmapsets/43292/
 osu taiko https://osu.ppy.sh/beatmapsets/43422/
 osu taiko https://osu.ppy.sh/beatmapsets/43510/
@@ -550,6 +551,3 @@ taiko https://osu.ppy.sh/beatmapsets/59812/
 taiko https://osu.ppy.sh/beatmapsets/745213/
 taiko https://osu.ppy.sh/beatmapsets/871329/
 taiko https://osu.ppy.sh/beatmapsets/882086/
-
-10/06/2025 recheck
-osu https://osu.ppy.sh/beatmapsets/1952901/
