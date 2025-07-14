@@ -48,9 +48,8 @@ for i in range(1, 50): # change the range to whatever you want
         else:
             graved_fine.append(beatmapset.id)
 
-    except Exception as e: # ctrl + C to interrupt the process in the cmd
+    except: # ctrl + C to interrupt the process in the cmd
         print(f"the currrent ID is {i}")
-        print(e)
         break
     
 print(f"Finished computing at {datetime.datetime.now()}")
