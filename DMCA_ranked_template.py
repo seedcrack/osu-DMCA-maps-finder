@@ -38,15 +38,15 @@ for i in range(1, 50): # change the range to whatever you want
                 graved_dmca.append(i)
             
         elif map_status == 1:
-            ranked_fine.append(beatmapset.id)
+            ranked_fine.append(i)
         elif map_status == 2:
-            approved_fine.append(beatmapset.id)
+            approved_fine.append(i)
         elif map_status == 3:
-            qualified_fine.append(beatmapset.id)
+            qualified_fine.append(i)
         elif map_status == 4:
-            loved_fine.append(beatmapset.id)
+            loved_fine.append(i)
         else:
-            graved_fine.append(beatmapset.id)
+            graved_fine.append(i)
 
     except: # ctrl + C to interrupt the process in the cmd
         print(f"the currrent ID is {i}")
